@@ -199,7 +199,7 @@
         "symfony/browser-kit": "^4.4 || ^5.3",
         "symfony/debug-bundle": "^4.4 || ^5.3",
         "symfony/dotenv": "^4.4 || ^5.3",
-        "symfony/flex": "^1.7",
+        "symfony/flex": "^2.2",
         "symfony/web-profiler-bundle": "^4.4 || ^5.3",
         "vimeo/psalm": "4.7.2"
     },
